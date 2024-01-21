@@ -11,10 +11,10 @@ cd maven-standalone-app
 
 mvn clean package
 
-# Run the Jar
+# Run the Jar 
 
 java -jar target/name_of_jar.jar
 
-# Test Commit for jenkins
+# Test Commit for jenkins.
 
 
